@@ -1,3 +1,2 @@
 // Merhaba Dünya
 
-define math
